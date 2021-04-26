@@ -1,0 +1,34 @@
+//
+//  MyPrefixHeaderFile.pch
+//  MTcams
+//
+//  Created by Milovan Tomasevic on 05/10/2017.
+//  Copyright © 2017 administrator. All rights reserved.
+//
+
+#ifndef MyPrefixHeaderFile_pch
+#define MyPrefixHeaderFile_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <Availability.h>
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "MTLogger.h"
+#import "MTSupport.h"
+#import "Utils.h"
+#import "Defines.h"
+#import "MTTextField.h"
+#import "MTButton.h"
+#import "MTSearchBar.h"
+#import "MTAlertPresenter.h"
+#import "MTAlertDescriptor.h"
+#import "UIView+CGGeometry.h"
+#import "MTThemeManager.h"
+#import "MTBaseTheme.h"
+
+
+
+
+#endif /* MyPrefixHeaderFile_pch */

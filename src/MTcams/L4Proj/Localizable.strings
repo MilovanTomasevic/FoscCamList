@@ -1,0 +1,126 @@
+/* 
+  Localizable.strings
+  MTcams
+
+  Created by Milovan Tomasevic on 11/10/2017.
+  Copyright © 2017 administrator. All rights reserved.
+*/
+
+
+"app_menu_name" = "MT cams";
+"logout" = "Logout";
+"choice_conf" = "Choice of configurations";
+"manual_add" = "Manual add";
+"account_info" = "Account information";
+"log_and_reg" = "Login & Registar ";
+"wired" = "Wired";
+"wifi" = "Wifi";
+"no_pass_for_conf" = "No pass for wired conf";
+"done" = "Done";
+"enter_pass" = "Enter password";
+"next" = "Next";
+"edit" = "Edit";
+"please_wait" = "Please wait...";
+"config_cam_2_min" = "Configuring the camera may take about 2 minutes.";
+"login_problem" = "Open Login problem!";
+"please_try_again" = "Please try again.";
+"cancel" = "Cancel";
+"retry" = "Retry";
+"cam_configured" = "Camera configured.";
+"list_cam" = "List cameras";
+"camera" = "Camera: ";
+"local" = "Local";
+"cloud" = "Cloud";
+"info" = "Info";
+"deleted" = "Deleted";
+"about_cam" = "About Camera";
+"detalis_cam" = "\n UID: %@ \n IP cam: %@\n Port: %@ \n \n Username: %@ \n Password: %@\n \n SSID: %@\n  Pass: %@\n";
+
+//message for ALERT_PRESENTER
+"error" = "Error";
+"msg_1" = "Please enter correct format email first.";
+"msg_1a" = "You need to enter user email first.";
+"msg_1b" = "Doesn't exist user with this e-mail !";
+"msg_2" = "You need to enter password first.";
+"msg_2a" = "Retyped password is incorrect.";
+"msg_3" = "You need to enter name first.";
+"msg_4" = "You need to enter last name first.";
+"msg_5" = "You need to enter middle name first.";
+"msg_6" = "You need to enter date of birth first.";
+"msg_7" = "You need to enter town first.";
+"msg_8" = "You need to enter postal code first";
+"msg_9" = "You need to enter adress first.";
+"msg_10" = "You need to enter country first.";
+"msg_11" = "You need to enter phone number first.";
+"msg_12" = "Please enter username first.";
+"msg_13" = "Pease, use a different username, admin is reserved.";
+"msg_14" = "You need to enter password first.";
+"msg_15" = "Open Login problem!";
+"msg_16" = "You need to enter uid first.";
+"msg_17" = "You need to enter ip first.";
+"msg_18" = "You need to enter port first.";
+"msg_19" = "Incorrect user name or password.";
+"msg_20" = "This is your password to login to the application. Please do update information for the protection and security of information. Your password is: %@";
+
+//placeholder
+"plsh_1" = "Enter Mail";
+"plsh_2" = "Enter Password";
+"plsh_2a" = "Confirm Password";
+"plsh_3" = "First Name";
+"plsh_4" = "Middle Name";
+"plsh_5" = "Last Name";
+"plsh_6" = "Date of brith";
+"plsh_7" = "Adress";
+"plsh_8" = "Town/City";
+"plsh_9" = "Postal Code";
+"plsh_10" = "Country/region";
+"plsh_11" = "Primary phone number";
+"plsh_12" = "Admin/User";
+"plsh_13" = "Enter new username";
+"plsh_14" = "Enter new password";
+"plsh_15" = "Enter username";
+"plsh_16" = "Enter password";
+"plsh_17" = "Enter UID";
+"plsh_18" = "Enter IP";
+"plsh_19" = "Enter PORT";
+
+"info_updated" = "Informatios updated.";
+"new_data" = "New Data";
+"login" = "Login";
+"logout_video" = "Logout video";
+"cam_sign_requested" = "Camera Sing In Requested";
+"sing_in" = "Sign In";
+"stream_quality" = "Stream quality";
+"good"="Good";
+"low"="Low";
+"up" = "Up";
+"down" = "Down";
+"left" = "Left";
+"right" = "Right";
+"stop" = "Stop";
+"save_to_galery"="Save to galery.";
+"allow_access_privacy" = "Allow access privacy/photos";
+"conn" = "Connecting...";
+"loading_streaming" = "Loading streaming video";
+"users" = "Users";
+"cams"="Cams";
+"selected_cam" = "Selected cam";
+"selected_user" = "Selected user";
+"join" = "Join";
+"successfully_join_cam" = "Successfully join the camera with a users";
+"successfully_join_user" = "Successfully join the user with a cams";
+"add" = "Add";
+"added" = "Added";
+"account_created" = "Account created.";
+"forgot_password" = "Forgot password ?";
+"create_new_account" = "Create new account";
+"password_recovery" = "Password recovery";
+"welcome" = "Welcome %@";
+"mail_sent" = "Mail sent to the address: \n %@";
+"warning_send_mail" ="Warning !!!  \nPlease update the information for the protection and security of information. \nDo change the information as soon as you receive an e-mail.";
+"ok" = "OK";
+"back_button" = "Back";
+"ss_message" = "Connecting, please wait...";
+"unsorted_button" = "UNSORTED";
+"help_button" = "Help";
+"search" = "Search";
